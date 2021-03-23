@@ -1,6 +1,6 @@
 
-# 과학기술분야 BERT 사전학습 모델 (Korsci BERT)
- 본 Korsci BERT 언어모델은 한국과학기술정보연구원과 한국특허정보원이 공동으로 연구한 과제의  결과물 중 하나로, 기존 [Google BERT base](https://github.com/google-research/bert) 모델의 아키텍쳐를 기반으로, 논문 & 특허 코퍼스 총 97G (약 3억 8천만 문장)를 사전학습한 모델이다.
+# 과학기술분야 BERT 사전학습 모델 (KorSci BERT)
+ 본 KorSci BERT 언어모델은 한국과학기술정보연구원과 한국특허정보원이 공동으로 연구한 과제의  결과물 중 하나로, 기존 [Google BERT base](https://github.com/google-research/bert) 모델의 아키텍쳐를 기반으로, 논문 & 특허 코퍼스 총 97G (약 3억 8천만 문장)를 사전학습한 모델이다.
 
 ## Train dataset
 |Type|Corpus|Sentences|Avg sent length|
