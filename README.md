@@ -55,7 +55,7 @@
 본 토크나이저는 한국과학기술정보연구원과 한국특허정보원이 공동으로 연구한 과제의  결과물 중 하나이다.  그리고, 위 사전학습 모델에서 사용된 코퍼스를 기반으로 명사 및 복합명사 약 600만개의 사용자사전이 추가된 [Mecab-ko Tokenizer](https://bitbucket.org/eunjeon/mecab-ko/src/master/)와 기존 [BERT WordPiece Tokenizer](https://github.com/google-research/bert)가 병합되어진 토크나이저이다.
 
 ##  모델 다운로드
-https://aida.kisti.re.kr/model/200d8307-9378-41c3-860f-31c3a55d3444
+http://doi.org/10.23057/46
 
 ##  요구사항
 
